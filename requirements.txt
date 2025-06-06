@@ -1,0 +1,6 @@
+   pandas
+   numpy
+   scikit-learn
+   nltk
+   # Add 'streamlit' if you build the Streamlit app
+   # Add 'wordcloud', 'matplotlib', 'seaborn' if you want others to easily run EDA locally
